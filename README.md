@@ -42,3 +42,5 @@ git push origin feature-name
 Если у вас есть вопросы или предложения, вы можете обратиться через surovov1@yandex.ru.
 
 С нетерпением жду ваших идей и предложений по более эффективным способам реализации бинарного поиска! Спасибо за интерес к BinarySearchSolving!
+
+![Logo](./icons/BinarySearchLogo.png)
